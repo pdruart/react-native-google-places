@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tolu360/react-native-google-places"
+    "url": "https://github.com/pdruart/react-native-google-places.git#picto-version"
   },
   "license": "MIT",
   "bugs": {
